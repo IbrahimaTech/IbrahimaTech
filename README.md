@@ -1,6 +1,6 @@
 # Hi, I'm Ibrahima! 👋
 
-**I'm a first-year engineering student and developer driven by a passion for low-level programming, high-performance computing, AI and disruptive technologies.**
+**I'm a first-year engineering student and developer driven by a passion for high-performance computing, AI and disruptive technologies.**
 
 Welcome to my GitHub! My journey is all about figuring out how things work under the hood. My long-term goal is to push the boundaries of Computer Systems Engineering, High Performance Computing, AI and Quantum Computing. I like getting my hands dirty with code just as much as I enjoy designing and modeling complex systems.
 
